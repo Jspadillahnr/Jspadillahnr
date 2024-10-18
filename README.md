@@ -11,6 +11,7 @@
 • Big Data: Apache Hadoop, Spark, Hive
 
 **Contacto**
+
 Teléfono: +573023651365
 
 Email: Jspadillahnr@gmail.com
