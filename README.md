@@ -10,3 +10,7 @@
 • Business Intelligence: Power BI, Tableau
 • Big Data: Apache Hadoop, Spark, Hive
 
+**Contacto**
+Teléfono: +573023651365
+Email: Jspadillahnr@gmail.com
+LinkedIn: www.linkedin.com/in/juan-sebastián-padilla-hernandez-0a9a321a9
